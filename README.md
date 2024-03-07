@@ -9,10 +9,6 @@ A Flutter game project for Satr [Flutter 102 course] is an engaging and user-fri
 
 3- Updates UI elements dynamically using the setState() function.
 
-4- Incorporate animations to enhance the user experience.
-
-5- Add a timer to display the remaining time.
-
 # Preview 
 ![Simulator Screenshot - iPhone 15 Plus - 2024-03-07 at 10 11 33](https://github.com/RoaaAmin/Guess-the-Flag/assets/66753937/9566abd9-a9cb-4201-918b-6d647e4618a4)
 ![Simulator Screenshot - iPhone 15 Plus - 2024-03-07 at 10 12 44](https://github.com/RoaaAmin/Guess-the-Flag/assets/66753937/59848070-5176-4149-ac8b-254ef709de08)
